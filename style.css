@@ -1,0 +1,106 @@
+body {
+    background-color: #f8f8f8;
+    mix-blend-mode: darken;
+}
+
+
+header h1,h2 {
+    margin-top: 0%;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+ 
+table {
+    margin-top: 2%;
+    width: 100%;
+    border: 1px solid black;
+    height: 300px;
+    margin-left: 0%;
+    border-radius: 10px;
+    background-color: #b4fdbd;
+}
+ 
+td {
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+ 
+
+#s {
+    font-weight: 800;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    background-color: #ffffff;
+}
+ 
+ 
+#sub {
+    color: black;
+    font-family: sans-serif;
+    font-weight: 400;
+    background-color: #f8ff95;
+}
+ 
+#sub1 {
+    background-color: #fff;
+}
+ 
+#sub2 {
+    color: black;
+    text-transform: uppercase;
+    background-color: #ffffff;
+}
+ 
+#sub3 {
+    background-color: #ffffff;
+    font-family: sans-serif;
+    font-weight: 800;
+}
+ 
+#box1 {
+    color: rgb(1, 37, 104);
+    font-family: sans-serif;
+    font-weight: 800;
+}
+ 
+#box2 {
+    color: darkorange;
+    font-weight: 800;
+    font-family: sans-serif;
+}
+ 
+#box3 {
+    color: darkviolet;
+    font-weight: 800;
+    font-family: sans-serif;
+}
+ 
+#box4 {
+    color: green;
+    font-weight: 800;
+    font-family: sans-serif;
+}
+ 
+#box5 {
+    color: rgb(99, 38, 38);
+    font-family: sans-serif;
+    font-weight: 800;
+}
+ 
+#box6 {
+    color: hotpink;
+    font-weight: 800;
+    font-family: sans-serif;
+}
+ 
+#box7 {
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    font-weight: 800;
+    background-color: #f8ff95;
+}
+
+
